@@ -1,1 +1,1 @@
-# technotes-MERNSTACK
+# technotes - a MERNSTACK application
