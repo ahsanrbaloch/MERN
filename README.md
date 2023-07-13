@@ -1,7 +1,7 @@
 # technotes - a MERN STACK application
 # Description
 
-TechNotes is a user-friendly digital note-taking application designed to streamline and improve productivity for employees. By replacing traditional sticky notes, it offers a more efficient and organized way to manage and track notes.
+TechNotes is a user-friendly digital note-taking application created using the MERN stack and is designed to streamline and improve productivity for employees. By replacing traditional sticky notes, it offers a more efficient and organized way to manage and track notes.
 
 Employees can easily access and edit their assigned notes, ensuring that important information is always at their fingertips. With the ability to view the current user and assigned role, employees can quickly identify their responsibilities within the app.
 
