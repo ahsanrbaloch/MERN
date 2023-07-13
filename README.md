@@ -31,3 +31,33 @@ Furthermore, TechNotes accommodates different user roles such as employees, mana
 19. ✔️ Only Managers and Admins can create new users
 20. ✔️ Desktop mode is most important but should be available in mobile
 
+## Tech Stack
+
+Tech stack used for this project is MERN stack (MongoDB,Express.js,Node.js, and React.js) Moreover, Redux and RTK Query is used for front end and back end integration.
+
+## Screenshots
+### Public Page
+![image](https://github.com/ahsanrbaloch/technotes-MERNSTACK/assets/72220980/64de96fa-6f47-4ac8-be53-6de12e48cf45)
+
+### Login Page
+![image](https://github.com/ahsanrbaloch/technotes-MERNSTACK/assets/72220980/edc6993a-1bc2-4e5b-8e99-fe4dc9397210)
+
+### Employee Dashboard
+![image](https://github.com/ahsanrbaloch/technotes-MERNSTACK/assets/72220980/094ba75d-af24-485c-b6b5-76dd27f4bd70)
+
+### View Technotes as Admin
+![image](https://github.com/ahsanrbaloch/technotes-MERNSTACK/assets/72220980/938baeec-4337-4838-8bf2-f7f741a5c462)
+
+### Edit Technotes as an Admin
+![image](https://github.com/ahsanrbaloch/technotes-MERNSTACK/assets/72220980/9864c198-b963-48b1-9478-cd1fe3bff732)
+
+### View All the Users as an Admin
+![image](https://github.com/ahsanrbaloch/technotes-MERNSTACK/assets/72220980/601fb80c-bab3-43e0-8664-34c277368018)
+
+### Edit the User as an Admin
+![image](https://github.com/ahsanrbaloch/technotes-MERNSTACK/assets/72220980/8642335d-65b9-41b5-b237-e41e9f574771)
+
+### Adding a New User as an Admin
+![image](https://github.com/ahsanrbaloch/technotes-MERNSTACK/assets/72220980/88c5c58e-66f9-4580-851d-282929b4fd58)
+
+
